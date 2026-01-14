@@ -47,9 +47,6 @@ Kết quả đạt được trong trò chơi Can’t Unsee là tích cực và �
 
 BÁO CÁO BÀI LÀM UNIT-TEST
 ## Tuần 1: 5/1/2026 - 11/1/2026 :
-
-- 5/1/2026 Hoàn thành Bài tập thực hành tuần 1 : Cantunsee ; Điểm số : 8130 ; Ảnh minh chứng : 5_1_2026_Cantunsee.png
-
 - 7/1/2026 :Student Analyzer - Unit Test with JUnit
 
   - Mô tả
